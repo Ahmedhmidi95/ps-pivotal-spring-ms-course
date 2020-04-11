@@ -1,0 +1,7 @@
+encrypt.key=Ahmed@.25#!mzA9
+spring:
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
