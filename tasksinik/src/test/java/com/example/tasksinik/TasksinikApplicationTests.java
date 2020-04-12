@@ -1,10 +1,10 @@
-package com.ms.task;
+package com.example.tasksinik;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PsCourseTaskApplicationTests {
+class TasksinikApplicationTests {
 
 	@Test
 	void contextLoads() {
